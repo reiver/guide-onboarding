@@ -118,7 +118,12 @@ The **Lead** should explain what each of these meetings are about.
 
 What training the **new person** gets depends on the **role** or **roles** they are filling, and what **team** they are joining.
 
+The **Lead** is responsible for making sure the **new person**'s **training** takes place at this point.
+The **Lead** might even be doing the **training**.
+
 But after all that, whomever is training them (and it is possible that could be more than one person) needs to give them whatever **training** is appropriate for the **role** or **roles** they are filling.
+
+(For example, a back-end software developer would get one type of training; a UX designer would get a different type of training; a marketing director would get yet another type of training; etc.)
 
 ## After They Join: Integration Into Team
 

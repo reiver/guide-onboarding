@@ -57,7 +57,7 @@ Again, it is good to know other people in the company.
 
 The order of these meetings matters.
 The first meeting at the beginning of the day should start with their **Lead**.
-And the last meting at the end of their day should end with their **Lead**.
+And the last meeting at the end of their day should end with their **Lead**.
 
 The **Lead** also has a special role.
 The **Lead** will be who the **new person** can always get help from, ask questions of, etc, at any time during their term with the company.

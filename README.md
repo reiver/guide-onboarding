@@ -139,6 +139,8 @@ Their **Lead** will still be around to help them if they need it, of course.
 
 Here is the onboarding guide in the form of a check-list ⁠—
 
+## Check List: Before They Join
+
 ☐ Has it been decided who the **new person**'s **Supervisor** is?
 
 ☐ Has it been decide who the **new person**'s **Lead** is?
@@ -157,4 +159,4 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ Has a meeting between the **new person** and **each of their team members** been scheduled for the **new person**'s first day?
 
-
+## Check List: After They Join

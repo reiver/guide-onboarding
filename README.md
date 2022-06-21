@@ -122,4 +122,8 @@ But after all that, whomever is training them (and it is possible that could be 
 
 ## After They Join: Integration Into Team
 
-And once all that is done, they should be integrated into whatever team or teams they are joining.
+And once all that is done, they should be **integrated** into whatever **team** or **teams** they are joining.
+
+I.e., they will actually start doing their job.
+
+Their **Lead** will still be around to help them if they need it, of course.

@@ -143,11 +143,11 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ Has it been decided who the **new person**'s **Supervisor** is?
 
-☐ Has it been decide who the **new person**'s **Lead** is?
+☐ Has it been decided who the **new person**'s **Lead** is?
 
 ☐ Does the **Lead** understand their responsibilities towards the **new person**?
 
-☐ Has it been decide who will train the **new person**?
+☐ Has it been decided who will train the **new person**?
 
 ☐ Has a meeting between the **new person** and their **Lead** been scheduled for the **new person**'s first meeting of their first day?
 
@@ -160,3 +160,20 @@ Here is the onboarding guide in the form of a check-list ⁠—
 ☐ Has a meeting between the **new person** and **each of their team members** been scheduled for the **new person**'s first day?
 
 ## Check List: After They Join
+
+☐ If they were given a corporate e-mail account — and they _might_ not be given one, but if they are given one — was a corporate e-mail account set up for them?
+
+☐ If they were given a corporate e-mail account — and they _might_ not be given one, but if they are given one — were they trained how to use the corporate e-mail account?
+
+☐ If they were given access to the corporate Discord — and they _might_ not be given access, but if they are given access — was it given to them, can they see whatever channels they need to see, and were they able to post to a channel?
+
+☐ If they were given a access to the corporate Discord — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate Discord?
+
+☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — was it given to them, can they see whatever parts of Discord they need to see?
+
+☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate GitHub?
+
+
+
+
+

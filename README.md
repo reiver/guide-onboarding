@@ -151,15 +151,15 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ Has the **training** times between **scheduled** with whomever is **training** the **new person**?
 
-☐ Has a meeting between the **new person** and their **Lead** been **scheduled** for the **new person**'s first meeting of their first day?
+☐ Has a meeting between the **new person** and their **Lead** been **scheduled** for the **new person**'s first meeting of their **first day**?
 
-☐ Has a meeting between the **new person** and their **Supervisor** been **scheduled** for the **new person**'s first day?
+☐ Has a meeting between the **new person** and their **Supervisor** been **scheduled** for the **new person**'s **first day**?
 
-☐ Has a meeting between the **new person** and a random **senior manager** (i.e., **senior manager №1**) been **scheduled** for the **new person**'s first day?
+☐ Has a meeting between the **new person** and a random **senior manager** (i.e., **senior manager №1**) been **scheduled** for the **new person**'s **first day**?
 
-☐ Has a meeting between the **new person** and a random **senior manager** (i.e., **senior manager №2**) been **scheduled** for the **new person**'s first day?
+☐ Has a meeting between the **new person** and a random **senior manager** (i.e., **senior manager №2**) been **scheduled** for the **new person**'s **first day**?
 
-☐ Has a meeting between the **new person** and **each of their team members** been **scheduled** for the **new person**'s first day?
+☐ Has a meeting between the **new person** and **each of their team members** been **scheduled** for the **new person**'s **first day**?
 
 ## Check List: After They Join
 

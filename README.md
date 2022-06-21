@@ -100,3 +100,13 @@ There _might_ be team meetings only 3 days a week.
 There _might_ be more than once type of team meeting per day.
 
 Whatever those **team meetings** are, the **new person** needs to be invited to them, and understand what each of them are.
+
+## After They Join: Training
+
+What training the **new person** gets depends on the **role** or **roles** they are filling, and what **team** they are joining.
+
+But after all that, whomever is training them (and it is possible that could be more than one person) needs to give them whatever **training** is appropriate for the **role** or **roles** they are filling.
+
+## After They Join: Integration Into Team
+
+And once all that is done, they should be integrated into whatever team or teams they are joining.

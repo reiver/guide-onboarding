@@ -173,7 +173,10 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate GitHub?
 
+☐ Has weekly **1-on-1 meetings** been scheduled between the **new person** and their **Lead**?
 
+☐ Has monthly **1-on-1 meetings** been scheduled between the **new person** and their **Supervisor**?
 
+☐ Has the **new person** had the pre-existing **team demo meetings** added to their schedule?
 
-
+☐ Has the **new person** had any **other** pre-existing **team meetings** added to their schedule?

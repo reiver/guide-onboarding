@@ -89,7 +89,14 @@ Some of these meetings are **existing meetings** that they will also join.
 
 These meetings are:
 
-1. Weekly 1-on-1 Meeting With Lead
+1. Weekly 1-on-1 Meeting With **Lead**.
 
-2. Monthly 1-on-1 Meeting with Supervisor
+2. Monthly 1-on-1 Meeting with **Supervisor**.
 
+3. **Team meetings**.
+
+There _might_ be team meetings every day.
+There _might_ be team meetings only 3 days a week.
+There _might_ be more than once type of team meeting per day.
+
+Whatever those **team meetings** are, the **new person** needs to be invited to them, and understand what each of them are.

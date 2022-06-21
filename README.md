@@ -31,11 +31,11 @@ Note that there could be _more than_ once person involved in the **training** of
 Although it could just be **one person** doing the training.
 In most cases it would be a good idea for the **Lead** to be involved in the training.
 
-You should decide all of these _BEFORE_ the **new person** joins.
+Someone should decide all of these _BEFORE_ the **new person** joins.
 
 ## Before They Join: Meetings Scheduled
 
-You will also need to schedule a bunch of one-time meetings for the **new person** with people already at the company.
+The **Lead** will need to schedule a bunch of one-time meetings for the **new person** with people already at the company (including themselves).
 
 1. Meeting with **Lead**
 

@@ -22,7 +22,7 @@ Here are some things that need to be **decided**:
 2. Who is the **new person**'s **Lead**?
 
 Note that the **Supervisor** and **Lead** _could_ be the same person.
-It could also be different people.
+The **Supervisor** and **Lead** _could_ also be different people.
 But on some teams these might be the same person.
 
 3. Who will **train** the **new person**?

@@ -2,6 +2,12 @@
 
 This guide tells you what to do when **onboarding** a new individual who is joining a team, a department, or a company.
 
+At the bottom of this document is a check-list.
+
+**You should use the check-list when a **new person** is being onboarded.**
+
+But you should also read this whole document so you understand this check-list.
+
 ----
 
 There are some thing that need to happen _BEFORE_ the **new person** joins, and there are things that need to happen _AFTER_ the **new person** joins.

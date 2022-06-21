@@ -132,3 +132,29 @@ And once all that is done, they should be **integrated** into whatever **team** 
 I.e., they will actually start doing their job.
 
 Their **Lead** will still be around to help them if they need it, of course.
+
+-----
+
+## Check List
+
+Here is the onboarding guide in the form of a check-list ⁠—
+
+☐ Has it been decided who the **new person**'s **Supervisor** is?
+
+☐ Has it been decide who the **new person**'s **Lead** is?
+
+☐ Does the **Lead** understand their responsibilities towards the **new person**?
+
+☐ Has it been decide who will train the **new person**?
+
+☐ Has a meeting between the **new person** and their **Lead** been scheduled for the **new person**'s first meeting of their first day?
+
+☐ Has a meeting between the **new person** and their **Supervisor** been scheduled for the **new person**'s first day?
+
+☐ Has a meeting between the **new person** and a random **senior manager** (i.e., **senior manager №1**) been scheduled for the **new person**'s first day?
+
+☐ Has a meeting between the **new person** and a random **senior manager** (i.e., **senior manager №2**) been scheduled for the **new person**'s first day?
+
+☐ Has a meeting between the **new person** and **each of their team members** been scheduled for the **new person**'s first day?
+
+

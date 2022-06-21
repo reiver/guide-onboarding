@@ -75,7 +75,7 @@ There are some things that need to happen AFTER the **new person** joins:
 
 ## After They Join: Accounts
 
-There are a number of the **new person** will need.
+There are a number of accounts the **new person** will need.
 
 The **Lead** should arrange for the **new person** to get setup on each of these.
 

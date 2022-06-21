@@ -31,7 +31,7 @@ Note that there could be _more than_ once person involved in the **training** of
 Although it could just be **one person** doing the training.
 In most cases it would be a good idea for the **Lead** to be involved in the training.
 
-You should decide all this _BEFORE_ the **new person** joins.
+You should decide all of these _BEFORE_ the **new person** joins.
 
 ## Before They Join: Meetings Scheduled
 
@@ -45,10 +45,15 @@ If the **Lead** & **Supervisor** are the same person, then there doesn't need to
 
 3. Meeting with **senior manager №1**
 
+It is good to know other people in the company.
 
 4. Meeting with **senior manager №2**
 
-5. Meeting with **Lead** (again)
+Again, it is good to know other people in the company.
+
+5. Meeting with **each member** of the **team**.
+
+6. Meeting with **Lead** (again)
 
 The order of these meetings matters.
 The first meeting at the beginning of the day should start with their **Lead**.
@@ -76,4 +81,15 @@ And the **new person** will need to be **trained** on how to use it.
 3. GitHub
 
 ## After They Join: Regular Meetings
+
+There are a number of **regular meetings** that need to be **scheduled** for the **new hire**.
+
+Some of these meetings are **completely new meetings**.
+Some of these meetings are **existing meetings** that they will also join.
+
+These meetings are:
+
+1. Weekly 1-on-1 Meeting With Lead
+
+2. Monthly 1-on-1 Meeting with Supervisor
 

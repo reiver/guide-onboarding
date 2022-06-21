@@ -104,13 +104,15 @@ These meetings are:
 
 2. Monthly 1-on-1 Meeting with **Supervisor**.
 
-3. **Team meetings**.
+3. Team Demo Meetings
 
-There _might_ be team meetings every day.
-There _might_ be team meetings only 3 days a week.
-There _might_ be more than once type of team meeting per day.
+These **team demo meetings** are at least 3 days a week, if not daily.
+(Daily would be better.)
+
+4. Other **Team meetings**.
 
 Whatever those **team meetings** are, the **new person** needs to be invited to them, and understand what each of them are.
+The **Lead** should explain what each of these meetings are about.
 
 ## After They Join: Training
 

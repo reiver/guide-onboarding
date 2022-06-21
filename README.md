@@ -62,6 +62,15 @@ And the last meeting at the end of their day should end with their **Lead**.
 The **Lead** also has a special role.
 The **Lead** will be who the **new person** can always get help from, ask questions of, etc, at any time during their term with the company.
 
+## After They Join
+
+There are some things that need to happen AFTER the **new person** joins:
+
+* there are things that need to be **set up** for them, 
+* there are **regular meetings** that need to be **scheduled**,
+* there is **training** that needs to happen, and
+* there is **team integration** that needs to happen.
+
 ## After They Join: Accounts
 
 There are a number of the **new person** will need.

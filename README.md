@@ -211,4 +211,6 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ Did all the **training** that was scheduled for the **new person** happen?
 
-☐ Has the **new person** been integrated into their team, and start doing actual work?
+☐ Was the **training** relevant for the **role** or **roles** the **new person** is filling?
+
+☐ Has the **new person** been integrated into their team, and started doing actual work?

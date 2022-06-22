@@ -10,7 +10,7 @@ But you should also read this whole document so you understand this check-list.
 
 ----
 
-There are some thing that need to happen _BEFORE_ the **new person** joins, and there are things that need to happen _AFTER_ the **new person** joins.
+There are some things that need to happen _BEFORE_ the **new person** joins, and there are things that need to happen _AFTER_ the **new person** joins.
 
 ## Before They Join
 

@@ -8,6 +8,23 @@ At the bottom of this document is a check-list.
 
 But you should also read this whole document so you understand this check-list.
 
+---
+
+Congratulations! — a **new person** is joining the company.
+
+After a recruiting process, interviews, an offer being given, and an offer accepted, a **new person** is joining the company.
+
+**What happens next?**
+
+With some companies, the **new person** shows up, and they have to figure out things on their own.
+A **new person** who goes through this might struggle for a year!
+
+We don't want this problem.
+
+We want to make the **new person** productive as quickly as possible.
+
+Thus, this **guide** gives you instructions on a way to make that happen.
+
 ----
 
 There are some things that need to happen _BEFORE_ the **new person** joins, and there are things that need to happen _AFTER_ the **new person** joins.

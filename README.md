@@ -20,10 +20,9 @@ With some companies, the **new person** shows up, and they have to figure out th
 A **new person** who goes through this might struggle for a year!
 
 We don't want this problem.
-
 We want to make the **new person** productive as quickly as possible.
 
-Thus, this **guide** gives you instructions on a way to make that happen.
+Thus, this **guide** exists to give you instructions on a way to make the **new person** productive as quickly as possible.
 
 ----
 

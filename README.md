@@ -189,6 +189,8 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ Has the **new person** had any **other** pre-existing **team meetings** added to their schedule?
 
-☐ Did all the meetings & training that was scheduled for the **new person** happen?
+☐ Did all the one-time meetings that was scheduled for the **new person** happen?
+
+☐ Did all the training that was scheduled for the **new person** happen?
 
 ☐ Has the **new person** been integrated into their team, and start doing actual work?

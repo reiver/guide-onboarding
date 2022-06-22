@@ -6,7 +6,7 @@ At the bottom of this document is a check-list.
 
 **You should use the check-list when a **new person** is being onboarded.**
 
-But you should also read this whole document so you understand this check-list.
+But you need to read this whole document so you actually understand what is in the check-list.
 
 ---
 

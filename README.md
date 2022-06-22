@@ -10,6 +10,8 @@ But you need to read this whole document so you actually understand what is in t
 
 ---
 
+## Introduction
+
 Congratulations! — a **new person** is joining the company.
 
 After a recruiting process, interviews, an offer being given, and an offer accepted, a **new person** is joining the company.
@@ -24,7 +26,7 @@ We want to make the **new person** productive as quickly as possible.
 
 Thus, this **guide** exists to give you instructions on a way to make the **new person** productive as quickly as possible.
 
-----
+## Before & After They Join
 
 There are some things that need to happen _BEFORE_ the **new person** joins, and there are things that need to happen _AFTER_ the **new person** joins.
 

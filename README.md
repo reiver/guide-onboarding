@@ -45,7 +45,7 @@ Here are some things that need to be **decided**:
 
 2. Who is the **new person**'s **Lead**?
 
-(Just to explicit about terms — such as **Supervisor** versus **Lead**. A **Supervisor** is concerned with things such as enforcing employee compliance — ex: don't slack off, do your job, show up to meetings, write this report, etc. A **Lead** is concerned with couching, pairing, being an example of what others should pay attention to, copy, and strive to replicate, etc.)
+Just to explicit about terms — such as **Supervisor** versus **Lead**. A **Supervisor** is concerned with things such as enforcing employee compliance — ex: don't slack off, do your job, show up to meetings, write this report, etc. A **Lead** is concerned with coaching, pairing, being an example of what others should pay attention to, copy, and strive to replicate, etc.
 
 Note that the **Supervisor** and **Lead** _could_ be the same person.
 The **Supervisor** and **Lead** _could_ also be different people.

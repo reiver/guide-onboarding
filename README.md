@@ -169,17 +169,17 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ## Check List: After They Join
 
-☐ If they were given a corporate e-mail account — and they _might_ not be given one, but if they are given one — was a corporate e-mail account set up for them?
+☐ If they were given a corporate e-mail account — and they _might_ not be given one, but if they are given one — was a **corporate e-mail account** set up for them?
 
-☐ If they were given a corporate e-mail account — and they _might_ not be given one, but if they are given one — were they trained how to use the corporate e-mail account?
+☐ If they were given a corporate e-mail account — and they _might_ not be given one, but if they are given one — were they trained how to use the **corporate e-mail account**?
 
-☐ If they were given access to the corporate Discord — and they _might_ not be given access, but if they are given access — was it given to them, can they see whatever channels they need to see, and were they able to post to a channel?
+☐ If they were given access to the corporate Discord — and they _might_ not be given access, but if they are given access — was it given to them, can they see whatever **Discord channels** they need to see, and were they able to post to a channel?
 
-☐ If they were given a access to the corporate Discord — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate Discord?
+☐ If they were given a access to the corporate Discord — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate **Discord**?
 
-☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — was it given to them, can they see whatever parts of Discord they need to see?
+☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — was it given to them, can they see whatever parts of **GitHub** they need to see?
 
-☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate GitHub?
+☐ If they were given access to the corporate GitHub — and they _might_ not be given access, but if they are given access — were they trained how to use the corporate **GitHub**?
 
 ☐ Has weekly **1-on-1 meetings** been scheduled between the **new person** and their **Lead**?
 
@@ -189,8 +189,8 @@ Here is the onboarding guide in the form of a check-list ⁠—
 
 ☐ Has the **new person** had any **other** pre-existing **team meetings** added to their schedule?
 
-☐ Did all the one-time meetings that was scheduled for the **new person** happen?
+☐ Did all the **one-time meetings** that was scheduled for the **new person** happen?
 
-☐ Did all the training that was scheduled for the **new person** happen?
+☐ Did all the **training** that was scheduled for the **new person** happen?
 
 ☐ Has the **new person** been integrated into their team, and start doing actual work?

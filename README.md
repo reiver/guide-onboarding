@@ -1,6 +1,6 @@
 # GUIDE: onboarding
 
-This guide tells you what to do when **onboarding** a new individual who is joining a team, a department, or a company.
+This guide tells you what to do when **onboarding** a **new person** who is joining a team, a department, or a company.
 
 At the bottom of this document is a check-list.
 

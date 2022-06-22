@@ -128,7 +128,7 @@ These meetings are:
 
 2. Monthly 1-on-1 Meeting with **Supervisor**.
 
-3. Team Demo Meetings
+3. **Team Demo Meetings**
 
 These **team demo meetings** are at least 3 days a week, if not daily.
 (Daily would be better.)

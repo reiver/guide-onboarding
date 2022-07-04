@@ -53,7 +53,7 @@ But on some teams these might be the same person.
 
 3. Who will **train** the **new person**?
 
-Note that there could be _more than_ once person involved in the **training** of the **new person**.
+Note that there could be _more than_ one person involved in the **training** of the **new person**.
 Although it could just be **one person** doing the training.
 In most cases it would be a good idea for the **Lead** to be involved in the training.
 
